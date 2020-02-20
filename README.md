@@ -22,4 +22,6 @@ run bin/RayTracer.exe > image.ppm
 # Result
 
 Here is the image produced right now, this will change as things advance :)
+( will probably change this to a png or something soon because github won't inline a ppm )
+![current image produced by code](images/img.ppm)
 
