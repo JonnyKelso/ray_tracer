@@ -1,2 +1,2 @@
 # ray_tracer
-A simple ray tracer from first principles.
+A simple ray tracer in C++ from first principles.
