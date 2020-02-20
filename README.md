@@ -15,7 +15,7 @@ Uses: -std=c++1z -Wall -Wextra -Wpedantic -o0
 
 Compiles just RayTracer.cpp.
 
-Output lands in bin/, whcih is cleared on each build.
+Output lands in bin/, which is cleared on each build.
 
 
 # Running
