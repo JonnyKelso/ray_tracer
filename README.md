@@ -9,9 +9,8 @@ Outputs ppm image data to console, pipe it to \*.ppm file to view it.
 
 # Building
 
-Build.bat requires clang (tested with 9.0.0) http://releases.llvm.org/download.html
-
-Uses: -std=c++1z -Wall -Wextra -Wpedantic -o0
+Build scripts for Windows (build.bat) and MacOS/Linux (build.sh)
+Requires clang
 
 Compiles just RayTracer.cpp.
 
